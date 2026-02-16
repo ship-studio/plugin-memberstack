@@ -1,0 +1,13 @@
+{
+  "id": "memberstack",
+  "name": "Memberstack",
+  "version": "0.1.0",
+  "description": "Connect and manage Memberstack MCP server",
+  "slots": ["toolbar"],
+  "author": "Memberstack",
+  "repository": "https://github.com/ship-studio/plugin-memberstack",
+  "min_app_version": "0.3.53",
+  "icon": "",
+  "required_commands": [],
+  "api_version": 1
+}
