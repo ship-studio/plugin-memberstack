@@ -67,28 +67,28 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| APPS-01 | — | Pending |
-| APPS-02 | — | Pending |
-| APPS-03 | — | Pending |
-| APPS-04 | — | Pending |
-| APPS-05 | — | Pending |
-| ENV-01 | — | Pending |
-| ENV-02 | — | Pending |
-| ENV-03 | — | Pending |
-| KNOW-01 | — | Pending |
-| KNOW-02 | — | Pending |
-| KNOW-03 | — | Pending |
-| KNOW-04 | — | Pending |
-| KNOW-05 | — | Pending |
-| VER-01 | — | Pending |
-| VER-02 | — | Pending |
-| VER-03 | — | Pending |
+| APPS-01 | Phase 1 | Pending |
+| APPS-02 | Phase 1 | Pending |
+| APPS-03 | Phase 1 | Pending |
+| APPS-04 | Phase 1 | Pending |
+| APPS-05 | Phase 1 | Pending |
+| ENV-01 | Phase 2 | Pending |
+| ENV-02 | Phase 2 | Pending |
+| ENV-03 | Phase 2 | Pending |
+| KNOW-01 | Phase 2 | Pending |
+| KNOW-02 | Phase 2 | Pending |
+| KNOW-03 | Phase 2 | Pending |
+| KNOW-04 | Phase 2 | Pending |
+| KNOW-05 | Phase 2 | Pending |
+| VER-01 | Phase 3 | Pending |
+| VER-02 | Phase 3 | Pending |
+| VER-03 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 16 total
-- Mapped to phases: 0
-- Unmapped: 16
+- Mapped to phases: 16
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-01*
-*Last updated: 2026-03-01 after initial definition*
+*Last updated: 2026-03-01 after roadmap creation*
